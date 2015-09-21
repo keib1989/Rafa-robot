@@ -79,7 +79,7 @@ void loop() {
   pulsePin(dropPin);
   moveMotor(100, true);
   pulsePin(dropPin);
-  moveMotor(100, true);
+//  moveMotor(100, true);
   // delay(1000);
 
  // moveMotor(100, false);
